@@ -1,0 +1,119 @@
+package com.jaffar;
+
+import jdk.jfr.Name;
+import jdk.jfr.Percentage;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+
+
+
+class Main
+{
+
+    public static void main(String[] args)
+    {
+
+        //***********land calculate
+//       int arc = 43560;
+//
+//       int land = 389767;
+//
+//       int total = land / arc;
+//
+//       System.out.println(total);
+//        //*******************************
+//
+          Scanner obj = new Scanner(System.in);
+//
+//        int retail_price = obj.nextInt();
+//
+//        float profit = retail_price * 0.4f;
+//
+//        System.out.println("Amount of profit of 40 % is : "+profit);
+
+        //*******************************
+
+//
+//        System.out.println("\t\t\t\t********Mark Sheet********");
+//        System.out.println("Name :");
+//        String Student_Name=obj.next();
+//        System.out.println("Subject 1 :");
+//        float Sub1=obj.nextFloat();
+//        System.out.println("Subject 2 :");
+//        float Sub2=obj.nextFloat();
+//        System.out.println("Subject 3 :");
+//        float Sub3=obj.nextFloat();
+//        System.out.println("Subject 4 :");
+//        float Sub4=obj.nextFloat();
+//
+//        float Total_marks = Sub1 + Sub2 + Sub3 + Sub4;
+//
+//        float Avg_marks= Total_marks/4;
+//
+//        float Per_marks = Total_marks/400*100;
+//
+//
+//        System.out.println("Student Name : "+Student_Name);
+//        System.out.println("Total marks : "+Total_marks);
+//        System.out.println("Average : "+Avg_marks);
+//        System.out.println("Percentage : "+Per_marks);
+//******************************************************************
+//        System.out.println("Number of cookies");
+//        int cookies = obj.nextInt();
+//        //40 cookies 3000 calories
+//        System.out.println("Total calories"+(75*cookies));
+
+//******************************************************************
+
+//        float amount_without_Comition = 600 * 21.77f;
+//        float commition = amount_without_Comition * 0.02f;
+//        float total =  amount_without_Comition+commition;
+//
+//        System.out.println("Amount with out commition;  "+amount_without_Comition);
+//        System.out.println("Amount of commition:  "+commition);
+//        System.out.println("Total + comtition: "+total);
+
+
+        //******************************************************
+
+//        float total_num_costumer = 12467f;
+//
+//        float per =total_num_costumer * 0.14f;
+//
+//        float rest_per = per *0.64f;
+//
+////        float check =  per /0.14f;
+//
+//        System.out.println(per);
+//        System.out.println(rest_per);
+//
+//
+
+//
+//        float Amout1 = 1000 * 32.87f;
+//        System.out.println("Aomunt which javed paid :  "+Amout1);
+//
+//        float Commision = Amout1 * 0.02f;
+//
+//        System.out.println("Amount of Commintion:  "+Commision);
+//
+//        float Sold_amount = 1000 * 33.92f;
+//
+//        System.out.println("Sold Amount is : "+Sold_amount);
+//
+//        float Comison_after_sold = Sold_amount * 0.02f;
+//
+//        System.out.println("Amount of Commintion after Sold:  "+Comison_after_sold);
+//
+//        float LAst = Sold_amount - Amout1 - Commision- Comison_after_sold;
+//
+//        System.out.println(LAst);
+//
+        String a = obj.nextLine();
+        System.out.println(a);
+
+        
+    }
+}
